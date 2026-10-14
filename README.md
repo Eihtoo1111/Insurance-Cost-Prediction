@@ -1,4 +1,7 @@
 # Insurance-Cost-Prediction
+
+Dataset used: https://www.kaggle.com/datasets/miadul/medical-cost-predication-dataset
+
 Predicting annual medical costs from patient demographics, lifestyle habits, and chronic conditions using linear, ridge, and polynomial regression on a 5,000-patient synthetic healthcare dataset.
 
 This project looks at how personal risk factors relate to a patient’s yearly healthcare spending. Using a synthetic but realistically correlated dataset of 5,000 patients, we explore how age, BMI, smoking, physical activity, sleep, stress, and chronic conditions (diabetes, hypertension, heart disease, asthma) affect annual medical cost in USD.
